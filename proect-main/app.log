@@ -1,0 +1,49 @@
+2026-11-25 23:03:27,399 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:04:03,050 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:04:28,690 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:04:44,644 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:06:26,730 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:06:52,719 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:08:14,570 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:09:04,266 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:09:18,228 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:09:27,257 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:10:04,041 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:10:13,794 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:12:16,442 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:13:04,287 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:13:31,440 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:13:48,084 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:15:34,995 [INFO] sozvezdie: Успешный вход: Админ: Макет (admin)
+2026-11-25 23:17:23,821 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:18:00,913 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:18:28,713 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:18:45,310 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:18:50,761 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:20:13,715 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:22:04,215 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:24:56,745 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:25:23,134 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:34:25,953 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:41:58,289 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:44:58,474 [INFO] sozvezdie: Приложение 'Созвездие' запущено
+2026-11-25 23:45:29,339 [ERROR] asyncio: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2026-11-25 23:54:00,492 [ERROR] asyncio: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
